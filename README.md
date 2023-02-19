@@ -19,7 +19,7 @@ Sampling Methods:
                   
                   Cluster Sampling
                   
-                  Random Data Train Test Split
+                  Over Sampling
  
  
 Models: 
@@ -37,7 +37,7 @@ Models:
          
 Best Model: K Nearest Neighbour
 
-Best Sampling: Train Test Split On OverSampled Data
+Best Sampling: Over Sampling
 
 Best Metric: 0.993464
 
