@@ -9,7 +9,9 @@ Class 0 : 763
 Class 1 : 9
 
 
-Sampling Methods: Simple Random Sampling
+Sampling Methods: 
+                
+                  Simple Random Sampling
 
                   Systematic Sampling
                   
@@ -20,15 +22,17 @@ Sampling Methods: Simple Random Sampling
                   Random Data Train Test Split
  
  
-Models: Logistic Regression
+Models: 
 
-        Decision Tree Classiffier
+                  Logistic Regression
+
+                  Decision Tree Classiffier
         
-        Random Forest Classifier
+                  Random Forest Classifier
         
-        Gaussian Naive Baise
+                  Gaussian Naive Baise
         
-        K Nearest Neighbour
+                  K Nearest Neighbour
          
          
 Best Model: K Nearest Neighbour
